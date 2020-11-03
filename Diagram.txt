@@ -1,0 +1,5 @@
+1. Connect trig pin of sensor to 12.
+2. Connect echo pin of sensor to 13.
+3. Connect alarm + pin to 11
+4. Give power to ultrasonic sensor.
+5. Give gnd to alarm.
